@@ -26,7 +26,7 @@ var config = {
         play: "音乐",
         bannar_coming: "开始",
         balloons_flying: "好像少点东西",
-        cake_fadein: "蛋糕？",
+        cake_fadein: "蛋糕",
         light_candle: "点蜡烛",
         wish_message: "生日快乐",
         story: "A MESSAGE FOR YOU",
